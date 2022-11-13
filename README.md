@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leviik21
+- 👋 Hi, I’m Levi 
 - 👀 I’m interested in writing beautiful Codes and learning new programming languages and frameworks.
 - 🌱 I’m currently learning software Engineering at ALX SE.
 - 💞️ I’m looking to collaborate with my fellow developers to find and contribute to different coding projects.
